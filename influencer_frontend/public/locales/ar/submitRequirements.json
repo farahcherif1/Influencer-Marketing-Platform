@@ -1,0 +1,21 @@
+{
+    "title": "تقديم المتطلبات",
+    "subtitle": "أخبر المؤثرين بما تبحث عنه.",
+    "describeProduct": "صف المنتج/الخدمة التي تروج لها",
+    "describeProductPlaceholder": "مثال: لقد أطلقنا للتو مجموعة فساتين الصيف ونريد منك الترويج لفساتيننا المصنوعة يدويًا بنسبة 100%",
+    "contentRequirements": "ما هي متطلبات المحتوى؟",
+    "contentRequirementsPlaceholder": "مثال: نود أن تقوم بتنسيق الفستان مع إكسسوارات مختلفة وجعل المحتوى حيويًا وملونًا",
+    "selectAll": "اختر كل ما ينطبق",
+    "optional": "اختياري",
+    "contentApproval": "هل يتطلب المحتوى موافقة قبل النشر؟",
+    "physicalProduct": "هل ستقوم بشحن منتج فعلي؟",
+    "productCostPlaceholder": "ما هي تكلفة المنتج الخاصة بك (بالدولار الأمريكي)",
+    "useForAds": "هل ستستخدم المحتوى للإعلانات؟",
+    "additionalRequirements": "ما الذي تحتاجه من المؤثرين للبدء؟",
+    "additionalRequirementsPlaceholder": "مثال: يرجى إرسال مقاس الفستان المفضل لديك ولونك المفضل",
+    "deliveryDate": "متى تتوقع تسليم المحتوى؟",
+    "deliveryDateInfo": "يساعد ذلك على فهم جدولك الزمني. يجب استخدامه كإرشاد وليس كموعد نهائي.",
+    "deliveryDatePlaceholder": "اختر تاريخ التسليم",
+    "continue": "متابعة"
+  }
+  

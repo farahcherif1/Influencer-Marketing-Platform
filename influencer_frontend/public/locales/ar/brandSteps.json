@@ -1,0 +1,78 @@
+{
+  "common": {
+    "continue": "متابعة"
+  },
+  "roleStep": {
+    "title": "ما هو دورك؟",
+    "selectRole": "اختر دورًا",
+    "pleaseSelectRole": "يرجى اختيار دور",
+    "options": {
+      "Founder-Executive": "مؤسس / تنفيذي",
+      "Marketing": "التسويق",
+      "Sales-Business Development": "المبيعات / تطوير الأعمال",
+      "CustomerSuccess-Support": "نجاح العملاء / الدعم",
+      "Product-Design": "المنتج / التصميم",
+      "Engineering-Technical": "الهندسة / التقنية",
+      "Operations-HR": "العمليات / الموارد البشرية"
+    }
+  },
+  "industryStep": {
+    "title": "لنجد المؤثر المثالي لك، مرحبًا!",
+    "subtitle": "أي صناعة تصف علامتك التجارية بشكل أفضل؟",
+    "options": {
+      "Agency": "وكالة",
+      "E-commerce": "التجارة الإلكترونية",
+      "Website/App": "موقع / تطبيق",
+      "Brick & Mortar": "متجر تقليدي",
+      "Other": "أخرى"
+    }
+  },
+  "targetAudienceStep": {
+    "title": "ما هي المنصات المستهدفة؟",
+    "platforms": {
+      "instagram": "إنستغرام",
+      "tiktok": "تيك توك",
+      "ugc": "محتوى من المستخدمين",
+      "youtube": "يوتيوب"
+    }
+  },
+  "contentPiecesStep": {
+    "title": "كم عدد قطع المحتوى التي تحتاجها من المؤثرين كل شهر؟"
+  },
+  "annualBudgetStep": {
+    "title": "ما هو ميزانيتك؟",
+    "options": {
+      "$1,000": "أقل من 1,000$",
+      "$1,000 - $5,000": "1,000$ - 5,000$",
+      "$5,000 - $10,000": "5,000$ - 10,000$",
+      "$10,000 - $50,000": "10,000$ - 50,000$",
+      "$50,000+": "50,000$ فأكثر"
+    }
+  },
+  "categoriesStep": {
+    "brandTitle": "ما هي الفئات التي تصف علامتك التجارية بشكل أفضل؟",
+    "creatorTitle": "ما هي الفئات التي تصف محتواك بشكل أفضل؟",
+    "categories": {
+      "fashion": "موضة",
+      "beauty": "جمال",
+      "travel": "سفر",
+      "health_fitness": "الصحة واللياقة",
+      "food_drink": "طعام وشراب",
+      "comedy_entertainment": "كوميديا وترفيه",
+      "art_photography": "فن وتصوير",
+      "music_dance": "موسيقى ورقص",
+      "family_children": "عائلة وأطفال",
+      "entrepreneur_business": "ريادة الأعمال والأعمال",
+      "animals_pets": "حيوانات وحيوانات أليفة",
+      "education": "تعليم",
+      "adventure_outdoors": "مغامرة وأنشطة خارجية",
+      "athlete_sports": "رياضة ورياضيين",
+      "technology": "تكنولوجيا",
+      "gaming": "ألعاب",
+      "healthcare": "الرعاية الصحية",
+      "automotive": "السيارات",
+      "skilled_trades": "المهن الحرفية",
+      "ecommerce": "التجارة الإلكترونية"
+    }
+  }
+}

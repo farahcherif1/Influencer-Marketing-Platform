@@ -1,0 +1,126 @@
+{
+    "common": {
+        "continue": "متابعة"
+    },
+    "usernameStep": {
+        "title": "المطالبة باسم المستخدم الخاص بك",
+        "description": "سيكون هذا اسم المستخدم الفريد الخاص بك على Collabios. يمكن تغييره لاحقًا.",
+        "placeholder": "اسم المستخدم",
+        "claim": "المطالبة",
+        "alert": {
+            "empty": "يرجى إدخال اسم مستخدم",
+            "error": "فشل في إنشاء اسم المستخدم. يرجى المحاولة مرة أخرى."
+        }
+    },
+    "locationStep": {
+        "title": "أين تقع؟",
+        "placeholder": "أدخل مدينتك"
+    },
+    "titleStep": {
+        "error": "يرجى كتابة 20 حرفًا على الأقل.",
+        "title": "ملخص عن نفسك - هذا هو العنوان المعروض في ملفك الشخصي",
+        "placeholder": "على سبيل المثال: منشئ محتوى لياقة بدنية"
+
+    },
+    "descriptionStep": {
+        "title": "تحدث عن نفسك ومحتواك",
+        "placeholder": "على سبيل المثال: أخلق محتوى حول اللياقة البدنية والحياة الصحية.",
+        "error": "يرجى كتابة 100 حرفًا على الأقل."
+    },
+    "genderStep": {
+        "title": "ما هو جنسك؟",
+        "options": {
+            "Male": "ذكر",
+            "Female": "أنثى",
+            "Other": "آخر"
+        }
+    },
+    "socialChannelsStep": {
+        "title": "أضف قنواتك الاجتماعية",
+        "placeholder": "أدخل اسم المستخدم الخاص بك",
+        "Followers": "المتابعين",
+        "channels": {
+            "Instagram": "اسم مستخدم إنستغرام",
+            "TikTok": "اسم مستخدم تيك توك",
+            "YouTube": "اسم مستخدم يوتيوب",
+            "Twitter": "اسم مستخدم تويتر",
+            "Twitch": "اسم مستخدم تويتش",
+            "Amazon": "رابط متجر أمازون",
+            "Website": "رابط موقع ويب"
+        },
+        "followerRanges": {
+           "0–1k": "0–1k متابع",
+            "1k–10k": "1k–10k متابع",
+            "10k–50k": "10k–50k متابع",
+            "50k–100k": "50k–100k متابع",
+            "100k–500k": "100k–500k متابع",
+            "500k–1m": "500k–1m متابع",
+            "1m–5m": "1m–5m متابع",
+            "5m–10m": "5m–10m متابع",
+            "10m+": "10m+ متابع"
+        }
+    },
+    "imageUploadStep": {
+        "title": "أضف ما يصل إلى 10 صور لك ومحتواك",
+        "profileImage": "أضف صورة الملف الشخصي",
+        "RequiredLabel": "صورة غلاف مطلوبة",
+        "optionalLabel": "صورة غلاف اختيارية",
+        "clickToUpload": "انقر لتحميل"
+    },
+    "contentPackageStep": {
+    "title": "أضف باقات المحتوى الخاصة بك",
+    "error": "يرجى ملء جميع الحقول المطلوبة.",
+    "packageError": "فشل في حفظ الباقات. يرجى المحاولة مرة أخرى.",
+    "description": "تظهر باقات المحتوى في ملفك الشخصي ويمكن للعلامات التجارية شراؤها. لست متأكدًا من السعر المناسب؟ تحقق من دليلنا.",
+    "rateCalculator": "استخدم حاسبة الأسعار",
+    "fee": ". تأخذ Collabios عمولة بنسبة 15٪.",
+    "contentType": "نوع المحتوى",
+    "quantity": "الكمية",
+    "duration": "المدة (اختياري)",
+    "unit": "الوحدة",
+    "price": "السعر (دولار أمريكي)",
+    "addDescription": "أضف وصفًا",
+    "des": "الوصف",
+    "removePackage": "إزالة الباقة",
+    "addPackage": "+ أضف باقة",
+    "minPriceError": "الحد الأدنى للسعر هو 50 دولارًا",
+    "durationUnits": {
+        "Hours": "ساعات",
+        "Seconds": "ثواني",
+        "Minutes": "دقائق"
+    },
+    "services": {
+        "Instagram Photo Feed Post": "منشور صورة في خلاصة إنستغرام",
+        "Instagram Reel": "ريل إنستغرام",
+        "Instagram Story": "ستوري إنستغرام",
+        "Instagram Live": "بث مباشر على إنستغرام",
+        "TikTok Video": "فيديو تيك توك",
+        "TikTok Story": "ستوري تيك توك",
+        "TikTok Live": "بث مباشر على تيك توك",
+        "UGC Product Video": "فيديو منتج UGC",
+        "UGC Product Photo": "صورة منتج UGC",
+        "UGC Video Ad": "إعلان فيديو UGC",
+        "UGC Photo Ad": "إعلان صورة UGC",
+        "UGC Tutorial": "دليل UGC",
+        "UGC Testimonial/Review": "مراجعة/تجربة UGC",
+        "UGC Unboxing": "فتح صندوق UGC",
+        "UGC Blog": "مدونة UGC",
+        "YouTube Video": "فيديو يوتيوب",
+        "YouTube Short": "شورت يوتيوب",
+        "YouTube Livestream": "بث مباشر على يوتيوب",
+        "Twitter Tweet": "تغريدة تويتر",
+        "Twitter Thread": "سلسلة تويتر",
+        "Twitter Retweet": "إعادة تغريد تويتر",
+        "Twitch Livestream": "بث مباشر على تويتش"
+    }
+    },
+    "phoneNumberStep": {
+        "title": "أضف رقم هاتفك المحمول ليتم إبلاغك عند استلام طلب",
+        "invalidNumber": "يرجى إدخال رقم صالح",
+        "placeholder": "رقم الهاتف"
+    },
+    "lastStep": {
+        "title": "الخطوة الأخيرة! كن منشئ محتوى موثوق",
+        "description": "لا تقلق، من المجاني استخدام Collabios ولن يتم تحصيل أي رسوم عند التسجيل. نحن نجمع هذه المعلومات لإظهار العلامات التجارية أنك منشئ موثوق، وأنك لن تسرق منتجاتهم أو تضيع وقتهم."
+    }
+}

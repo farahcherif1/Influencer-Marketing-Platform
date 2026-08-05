@@ -1,0 +1,33 @@
+{
+  "title": "Contactez-nous",
+  "subtitle": "Nous aimerions avoir de vos nouvelles. Veuillez remplir le formulaire ci-dessous.",
+  "form": {
+    "fullName": "Nom complet",
+    "email": "Email",
+    "phone": "Numéro de téléphone",
+    "subject": "Sujet",
+    "message": "Message",
+    "submit": "Envoyer le message"
+  },
+  "placeholders": {
+    "fullName": "Entrez votre nom complet",
+    "email": "votre.email@exemple.com",
+    "phone": "+33 6 12 34 56 78",
+    "subject": "Comment pouvons-nous vous aider ?",
+    "message": "Dites-nous en plus sur votre demande..."
+  },
+  "contact": {
+    "info": "Informations de contact",
+    "address": "123 Influencer St, Social City, SC 12345",
+    "phone": "+1 (555) 123-4567",
+    "email": "hello@company.com",
+    "workingHours": "Lun-Ven : 9h - 17h"
+  },
+  "successMessage": "Merci de nous avoir contactés ! Nous vous répondrons très bientôt.",
+  "errorMessage": "Une erreur s'est produite lors de l'envoi du message. Veuillez réessayer plus tard.",
+  "validation": {
+    "required": "ce champ est requis",
+    "email": "Veuillez entrer une adresse email valide",
+    "phone": "Veuillez entrer un numéro de téléphone valide"
+  }
+}

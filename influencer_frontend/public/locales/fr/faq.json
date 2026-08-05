@@ -1,0 +1,89 @@
+{
+    "titleInfluencer":"Pour Influenceurs",
+        "titleBrand":"Pour Maarques",
+
+  "influencerFAQs": {
+    "howDoesItWork": {
+      "question": "Comment fonctionne Collabios ?",
+      "answer": "Créez votre page personnelle et listez vos services pour Instagram, TikTok, YouTube, Twitter, Twitch et plus encore. Partagez ensuite votre lien personnalisé dans votre bio et sur les réseaux sociaux. Les marques peuvent désormais vous découvrir et acheter vos services, et vous pouvez facilement gérer les collaborations et être payé directement via la plateforme."
+    },
+    "howGetPaid": {
+      "question": "Comment suis-je payé ?",
+      "answer": "Les paiements sont effectués directement via notre site. Nous utilisons <0>Dots</0> pour vous payer. Une fois votre commande terminée, vous pourrez choisir parmi plus de 5 méthodes dont PayPal, CashApp ou Venmo pour recevoir votre argent.",
+      "linkText": "Dots"
+    },
+    "howMuchCost": {
+      "question": "Combien ça coûte ?",
+      "answer": "Il n'y a aucun coût initial. Nous prenons une commission de 15% sur chaque vente."
+    },
+    "paymentGuaranteed": {
+      "question": "Mon paiement est-il garanti ?",
+      "answer": "Oui, nous collectons le paiement de l'acheteur et le conservons jusqu'à la finalisation de la commande. Cela garantit que les deux parties sont protégées lors de chaque transaction."
+    },
+    "declineOrders": {
+      "question": "Puis-je refuser des commandes ?",
+      "answer": "Oui, vous pouvez accepter ou refuser une commande. Cela vous donne la liberté de ne travailler qu'avec les marques qui vous correspondent."
+    },
+    "supportedPlatforms": {
+      "question": "Quelles plateformes Collabios prend-il en charge ?",
+      "answer": "Actuellement, vous pouvez proposer vos services pour Instagram, TikTok, YouTube, Twitch, Twitter et UGC."
+    },
+    "supportedCountries": {
+      "question": "Dans quels pays Collabios est-il disponible ?",
+      "answer": "Nous sommes actuellement disponibles dans plus de 35 pays. Vous pouvez voir la liste complète des pays <0>ici</0>.",
+      "linkText": "ici"
+    },
+    "bindingContracts": {
+      "question": "Y a-t-il des contrats contraignants ?",
+      "answer": "Non, nous ne vous demandons pas de signer de contrat. Nous sommes une plateforme en libre-service, vous êtes libre de gérer vos propres collaborations sans notre intervention. Nous fournissons simplement la plateforme pour promouvoir vos services auprès des marques."
+    },
+    "agencyQuestion": {
+      "question": "Êtes-vous une agence ?",
+      "answer": "Non, nous ne sommes pas une agence. Nous sommes une plateforme vous permettant de promouvoir vos services et de gérer vos propres collaborations avec les marques."
+    }
+  },
+  "brandFAQs": {
+    "howDoesItWork": {
+      "question": "Comment fonctionne Collabios ?",
+      "answer": "Commencez par rechercher parmi des milliers d'influenceurs vérifiés sur Instagram, TikTok et YouTube. Une fois que vous avez trouvé les influenceurs avec lesquels vous souhaitez travailler, achetez leurs services en toute sécurité via Collabios. Nous conservons votre paiement jusqu'à l'achèvement du travail. Une fois le travail terminé, recevez votre contenu de haute qualité directement via la plateforme."
+    },
+    "whatIsCollabios": {
+      "question": "Qu'est-ce que Collabios ?",
+      "answer": "Collabios est une plateforme pour trouver et embaucher des influenceurs sur Instagram, TikTok et YouTube. Vous pouvez facilement rechercher parmi des milliers de créateurs de contenu et les payer directement via Collabios."
+    },
+    "manageCampaign": {
+      "question": "Pouvez-vous gérer une campagne d'influence pour moi ?",
+      "answer": "Oui, si vous souhaitez que Collabios planifie et gère une campagne d'influence pour vous, <0>contactez-vous</0> pour commencer.",
+      "linkText": "contactez-nous"
+    },
+    "influencersVetted": {
+      "question": "Comment les influenceurs sont-ils vérifiés avant de rejoindre Collabios ?",
+      "answer": "Nous vérifions l'identité de chaque influenceur inscrit sur la plateforme. Nous auditons également complètement leurs réseaux sociaux pour détecter les faux abonnés et engagements. Nous prenons également en compte leurs collaborations précédentes avec des marques."
+    },
+    "shippingWork": {
+      "question": "Comment fonctionne l'expédition ?",
+      "answer": "Une fois votre commande passée, l'influenceur vous enverra ses informations d'expédition via le chat. Vous pouvez ensuite utiliser le transporteur de votre choix pour lui envoyer le produit."
+    },
+    "customOffers": {
+      "question": "Comment envoyer des offres personnalisées ?",
+      "answer": "Si vous avez une demande qui ne correspond à aucun des forfaits existants d'un influenceur, vous pouvez lui envoyer une offre personnalisée. Pour ce faire, cliquez sur le bouton \"Envoyer une offre personnalisée\" sur le profil de l'influenceur et suivez les étapes."
+    },
+    "acceptTime": {
+      "question": "Combien de temps un influenceur a-t-il pour accepter ma commande ?",
+      "answer": "Les influenceurs disposent de 72 heures pour accepter les nouvelles commandes avant qu'elles n'expirent automatiquement."
+    },
+    "declinedOrder": {
+      "question": "Que se passe-t-il si un influenceur refuse ma commande ?",
+      "answer": "Nous ne vous facturons que lorsque l'influenceur accepte votre commande. Si votre commande est refusée, aucune action n'est requise de votre part."
+    },
+    "receiveWork": {
+      "question": "Comment suis-je sûr de recevoir le travail pour lequel j'ai payé ?",
+      "answer": "Collabios conserve votre argent jusqu'à ce que le travail soit terminé et approuvé par vous. Vous aurez jusqu'à 48 heures après la soumission du travail pour demander une révision ou ouvrir un litige avec Collabios."
+    },
+    "paymentTypes": {
+      "question": "Quels types de paiement acceptez-vous ?",
+      "answer": "Nous utilisons <0>Stripe</0> comme processeur de paiement, ce qui nous permet d'accepter toutes les principales cartes de crédit et de débit.",
+      "linkText": "Stripe"
+    }
+  }
+}

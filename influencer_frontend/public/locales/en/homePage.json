@@ -1,0 +1,206 @@
+{
+      "influencer_marketing_made_easy": "Influencer Marketing Made Easy",
+  "find_and_hire_influencers": "Find and hire top Instagram, TikTok, YouTube, and UGC influencers to create unique content for your brand",
+  "no_upfront_cost": {
+    "title": "No Upfront Cost",
+    "description": "Search influencers for free. No subscriptions, contracts, or hidden fees."
+  },
+  "vetted_influencers": {
+    "title": "Vetted Influencers",
+    "description": "Every influencer is vetted by us. Always receive high-quality, professional content."
+  },
+  "instant_chat": {
+    "title": "Instant Chat",
+    "description": "Instantly chat with influencers and stay in touch throughout the whole transaction."
+  },
+  "secure_purchases": {
+    "title": "Secure Purchases",
+    "description": "Your money is held safely until you approve the influencer’s work."
+  },
+ "compains_minititle": "Campaigns",
+  "compains_title": "Post Campaigns and Have 250,000+ Influencers Come to You",
+  
+  "set_targeting": {
+    "title": "Set Targeting",
+    "description": "Specify demographics including niche, location and following size of the influencers you want to target."
+  },
+  "post_campaign": {
+    "title": "Post Campaign",
+    "description": "Centralize your images, requirements, and more in a campaign brief sent to 250,000 influencers."
+  },
+  "influencers_apply": {
+    "title": "Influencers Apply",
+    "description": "Targeted influencers submit their pricing, and you choose who to collaborate with."
+  },
+
+  "track_one_click_tracking_title": "One-Click Tracking",
+  "track_one_click_tracking_description": "Track Instagram, TikTok, and YouTube content in real time from a single dashboard. Say goodbye to manual tracking and messy spreadsheets.",
+  
+  "track_advanced_analytics_title": "Advanced Analytics & Reporting",
+  "track_advanced_analytics_description": "Analyze content performance over time, including impressions, engagement and more. Organize performance by campaign and effortlessly build reports.",
+  
+  "track_fully_automated_title": "Fully Automated",
+  "track_fully_automated_description": "Metrics are updated every 24 hours, ensuring performance data is always up-to-date.",
+
+
+  "feature_track_mintitle": "Track",
+  "feature_track_title": "Track Post Analytics and Performance in Real Time",
+
+
+  "feature_search_mintitle": "Search",
+  "feature_search_title": "Find and Hire Influencers in Seconds on the Marketplace",
+  "search_table_title_1": "Search Influencers",
+  "search_table_description_1": "Search thousands of vetted Instagram, TikTok, and YouTube influencers.",
+  "search_table_title_2": "Purchase & Chat Securely",
+  "search_table_description_2": "Safely purchase and communicate through Collabios. We hold your payment until the work is completed.",
+  "search_table_title_3": "Receive Quality Content",
+  "search_table_description_3": "Receive your high-quality content from influencers directly through the platform.",
+
+  "categoryNavigation": {
+    "risingStars": "Rising Stars",
+    "mostViewed": "Most Viewed",
+    "trending": "Trending",
+    "under250": "Under $250",
+    "fastTurnover": "Fast Turnover",
+    "topCreator": "Top Creator"
+  },
+
+  "testimonials": [
+    {
+      "subtitle": "5 stars from a creator and a brand",
+      "content": "I've used Collabios from both the Creator side and the Brand side! It is extremely user-friendly and has led to some great relationships with creators/brands I wouldn't have been connected to otherwise. Love the platform!",
+      "author": "Layla - Influencer & Founder"
+    },
+    {
+      "subtitle": "Best platform to connect with influencers",
+      "content": "Best platform to connect with influencers and content creators. I've signed up to many platforms, Collabios is the easiest to use and gives the best results for my brand.",
+      "author": "Myriam - Founder of BBeyond"
+    },
+    {
+      "subtitle": "Great way to generate content",
+      "content": "Been using Collabios to generate content for our seasonal clothing lines. Super easy for us to search for relevant influencers and pay them. We save at least 10-20 hours a month on this.",
+      "author": "Courtney - Marketer"
+    }
+  ],
+
+
+  "creatorTable": [
+    {
+      "name": "Hannah Chanté Cowx",
+      "description": "Food Influencer, Photographer",
+      "location": "Los Angeles",
+      "followers": "1,000,000",
+      "price": 40,
+      "rating": 5.0
+    },
+    {
+      "name": "Hannah Chanté Cowx",
+      "description": "Food Influencer, Photographer",
+      "location": "Los Angeles"
+    },
+    {
+      "name": "Hannah Chanté Cowx",
+      "description": "Food Influencer, Photographer",
+      "location": "Los Angeles"
+    },
+    {
+      "name": "Hannah Chanté Cowx",
+      "description": "Food Influencer, Photographer",
+      "location": "Los Angeles"
+    }
+  ],
+  "sections": {
+    "featured": {
+      "title": "Featured",
+      "minidescription": "Hire top influencers across all platforms"
+    },
+    "instagram": {
+      "title": "Instagram",
+      "minidescription": "Hire Instagram influencers"
+    },
+    "tiktok": {
+      "title": "TikTok",
+      "minidescription": "Hire TikTok influencers"
+    },
+    "youtube": {
+      "title": "Youtube",
+      "minidescription": "Hire YouTube influencers"
+    },
+    "ugc": {
+      "title": "User Generated Content",
+      "minidescription": "Hire influencers for UGC"
+    }
+  },
+
+"MarketinFAQ":[
+  {
+    "question": "What is Influencer Marketing?",
+    "answer": "Influencer marketing is a digital marketing strategy that involves collaborating with individuals, known as influencers, who have a dedicated and engaged following on social media platforms and other online channels. These influencers can impact their followers’ purchasing decisions due to their credibility and authority in specific niches or industries. Brands partner with influencers to promote their products or services authentically, build social proof, and leverage their influence to reach a larger and more targeted audience."
+  
+},
+  {
+    "question": "How Does Influencer Marketing Work?",
+    "answer": "Influencer marketing operates by identifying suitable influencers for your brand, establishing a partnership, and creating and distributing content through the influencer’s channels. This content can take various forms, including sponsored posts, reviews, tutorials, or endorsements. The influencer shares this content with their audience, effectively introducing your brand or product to a potentially receptive and <1>  engaged audience</1>. The key to successful influencer marketing lies in crafting authentic and relevant content that resonates with both the influencer’s followers and your brand’s message."
+},
+  {
+    "question": "Why is Influencer Marketing Important?",
+    "answer": "Influencer marketing is important because it enables brands to connect with their target audience in a more genuine and engaging manner. Unlike traditional advertising, influencer marketing feels less intrusive and more trustworthy, as recommendations come from a trusted source. It helps build brand awareness, improve credibility, drive traffic, boost sales, and foster lasting customer relationships."
+  },
+  {
+    "question": "How Can I Find the Right Influencers for My Brand?",
+    "answer": "Start by identifying your target audience and the platforms they use. Then, use the Collabios influencer marketing tool to <0> search for influencers </0> within your niche. Use the gender, price, location, age and other filters to narrow down relevant influencers as much as possible. Once you find an influencer that you’re interested in working with, you can simply purchase one of their pre-defined content packages, or send them a custom offer directly through their profile.",
+    "linkText":" search for influencers "
+  },
+  {
+    "question": "What Are the Benefits of Influencer Marketing for My brand?",
+    "answer": "Influencer marketing helps expand your brand's reach, build trust and credibility through social proof, drive conversions, and can be more cost-effective than some traditional marketing methods. Additionally, influencer marketing allows you to tap into highly targeted and engaged audiences that may be challenging to reach through other means. All in all, there are numerous benefits to influencer marketing that can be hard to achieve through other marketing channels."
+  },
+  {
+    "question": "How Much Does Influencer Marketing Cost?",
+    "answer": "The cost of influencer marketing varies widely depending on factors such as the influencer's reach, niche, and <0>engagement rates</0>. Micro-influencers with smaller followings may charge less than macro-influencers or celebrities. Some influencers may work on a per-post basis, while others prefer ongoing partnerships. If you have a budget in mind, consider using the price filters found in Collabios’s search tool to narrow down the influencers that fit within your budget, this will save you time during the influencer discovery process.",
+  "linkText":"engagement rates"
+},
+  {
+    "question": "What Are the Different Types of Influencer Marketing Campaigns?",
+    "answer": "Influencer marketing can accommodate various campaign types, including product reviews, sponsored posts, takeovers, giveaways, and affiliate marketing. The type of campaign you choose should align with your goals and the influencer's strengths. You can use a<0> campaign brief template </0> like the one offered by Collabios to ensure that you have a well-thought-out campaign brief that encapsulates all the important details required to have a successful influencer marketing campaign.",
+    "linkText":"campaign brief template"
+  },
+  {
+    "question": "How Do I Measure the Success of an Influencer Marketing Campaign?",
+    "answer": "To measure the success of an influencer marketing campaign, you can track key performance indicators (KPIs) such as click-through rates, conversions, and return on investment (ROI). Typically, this tracking would be done through your own means, such as a discount code or unique link that is used to track the influencer’s impact on your side. Keep in mind that a large part of influencer marketing is social proof and social awareness, so many viewers may see your product and navigate to your website through other methods besides clicking the influencer’s link directly. Additionally, you can gather feedback from the influencer and analyze audience sentiment to gauge the campaign's impact on brand perception."
+  },
+  {
+    "question": "What Are the Common Mistakes to Avoid in Influencer Marketing?",
+    "answer": "Common mistakes in influencer marketing include failing to define clear campaign objectives and expectations and neglecting to communicate changes in objectives, timelines, and other aspects that affect the outcome of the campaign. Another major downfall to many influencer marketing campaigns is the expectation that every campaign is going to hit your KPIs when in reality, brands should focus on collecting feedback and data so that they can constantly iterate on campaign objectives and angles until they hit their desired KPIs."
+  }
+],
+
+
+  "categories": {
+     "Fashion": "Mode" ,
+     "Music & Dance": "Musique et Danse" ,
+     "Beauty": "Beauté" ,
+     "Travel": "Voyage" 
+  },
+
+"find_influencer": "Find and Hire Influencers",
+"search_description": "Search Instagram, TikTok, and YouTube influencers.",
+"search_button": "Search Influencers",
+"top_creator": "Top Creator",
+"see_all": "See All",
+"categorie": "Categories",
+"case": "Case Studies",
+  "trustedBy": "Trusted by 180,000+ Brands",
+  "collaborations": "View collaborations from brands like Wealthsimple, Hopper, Deezer, and more.",
+    "brands_work_with_influencers": "180,000+ Brands Work With Influencers on Collabios",
+
+  "case_studies": {
+    "wealthsimple_title": "Wealthsimple Launches 'Wealthsimple Cash' With Instagram and TikTok Influencers on Collabios",
+    "numi_title": "Numi Generates 50,000+ Impressions for New Spring Collection with Collabios",
+    "team_title": "Advertising Agency Gets 100+ Influencers Per Month on Autopilot with Collabios"
+  }
+
+
+
+
+}

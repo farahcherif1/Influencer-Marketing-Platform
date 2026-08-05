@@ -1,0 +1,79 @@
+{
+    "common": {
+      "continue": "Continuer"
+    },
+    "roleStep": {
+      "title": "Quel est votre rôle ?",
+      "selectRole": "Sélectionnez un rôle",
+      "pleaseSelectRole": "Veuillez sélectionner un rôle",
+      "options": {
+        "Founder-Executive": "Fondateur / Dirigeant",
+        "Marketing": "Marketing",
+        "Sales-Business Development": "Ventes / Développement commercial",
+        "CustomerSuccess-Support": "Succès client / Support",
+        "Product-Design": "Produit / Design",
+        "Engineering-Technical": "Ingénierie / Technique",
+        "Operations-HR": "Opérations / RH"
+      }
+    },
+    "industryStep": {
+        "title": "Trouvons l'influenceur parfait pour vous, Bonjour !",
+        "subtitle": "Quel secteur décrit le mieux votre marque ?",
+        "options": {
+          "Agency": "Agence",
+          "E-commerce": "E-commerce",
+          "Website/App": "Site web / Application",
+          "Brick & Mortar": "Boutique physique",
+          "Other": "Autre"
+        }
+    }, 
+    "targetAudienceStep": {
+        "title": "Quelles sont vos plateformes cibles ?",
+        "platforms": {
+          "instagram": "Instagram",
+          "tiktok": "TikTok",
+          "ugc": "Contenu généré par les utilisateurs",
+          "youtube": "YouTube"
+        }
+    },
+    "contentPiecesStep": {
+        "title": "Combien de contenus avez-vous besoin des influenceurs chaque mois ?"    },
+    "annualBudgetStep": {
+        "title": "Quel est votre budget ?",
+        "continue": "Continuer",
+        "options": {
+        "$1,000": "Moins de 1 000 $",
+        "$1,000 - $5,000": "1 000 $ - 5 000 $",
+        "$5,000 - $10,000": "5 000 $ - 10 000 $",
+        "$10,000 - $50,000": "10 000 $ - 50 000 $",
+        "$50,000+": "50 000 $ et plus"
+        }
+    },
+    "categoriesStep": {
+        "brandTitle": "Quelles catégories décrivent le mieux votre marque ?",
+        "creatorTitle": "Quelles catégories décrivent le mieux votre contenu ?",
+        "categories": {
+            "fashion": "Mode",
+            "beauty": "Beauté",
+            "travel": "Voyage",
+            "health_fitness": "Santé et forme",
+            "food_drink": "Nourriture et boissons",
+            "comedy_entertainment": "Comédie et divertissement",
+            "art_photography": "Art et photographie",
+            "music_dance": "Musique et danse",
+            "family_children": "Famille et enfants",
+            "entrepreneur_business": "Entrepreneuriat et affaires",
+            "animals_pets": "Animaux et animaux de compagnie",
+            "education": "Éducation",
+            "adventure_outdoors": "Aventure et plein air",
+            "athlete_sports": "Athlète et sports",
+            "technology": "Technologie",
+            "gaming": "Jeux vidéo",
+            "healthcare": "Soins de santé",
+            "automotive": "Automobile",
+            "skilled_trades": "Métiers spécialisés",
+            "ecommerce": "E-commerce"
+        }
+    } 
+  }
+  

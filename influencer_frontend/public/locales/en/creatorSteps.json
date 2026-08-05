@@ -1,0 +1,125 @@
+{
+    "common": {
+        "continue": "Continue"
+    },
+    "usernameStep": {
+        "title": "Claim your username",
+        "description": "This will be your unique username on Collabios. It can be changed later.",
+        "placeholder": "username",
+        "claim": "Claim",
+        "alert": {
+            "empty": "Please enter a username",
+            "error": "Failed to create username. Please try again."
+        }
+    },
+    "locationStep": {
+        "title": "Where are you located?",
+        "placeholder": "Enter your city"
+    },
+    "titleStep": {
+        "error": "Please write at least 20 characters.",
+        "title": "Summarize yourself — this is the title shown on your profile",
+        "placeholder": "E.g. Fitness Content Creator"
+    },
+    "descriptionStep": {
+        "title": "Describe yourself and your content",
+        "placeholder": "E.g. I create content about fitness and healthy living.",
+        "error": "Please write at least 100 characters."
+    },
+    "genderStep": {
+        "title": "What's your gender?",
+        "options": {
+            "Male": "Male",
+            "Female": "Female",
+            "Other": "Other"
+        }
+    },
+    "socialChannelsStep": {
+        "title": "Add your social channels",
+        "placeholder": "Enter your username",
+        "Followers":"Followers",
+        "channels": {
+            "Instagram": "Add Instagram username",
+            "TikTok": "Add TikTok username",
+            "YouTube": "Add YouTube username",
+            "Twitter": "Add Twitter username",
+            "Twitch": "Add Twitch username",
+            "Amazon": "Add Amazon Storefront URL",
+            "Website": "Add Website URL"
+        },
+        "followerRanges": {
+            "0–1k": "0–1k",
+            "1k–10k": "1k–10k",
+            "10k–50k": "10k–50k",
+            "50k–100k": "50k–100k",
+            "100k–500k": "100k–500k",
+            "500k–1m": "500k–1m",
+            "1m–5m": "1m–5m",
+            "5m–10m": "5m–10m",
+            "10m+": "10m+"
+        }
+    },
+    "imageUploadStep": {
+        "title": "Add up to 10 images of you and your content",
+        "profileImage": "Add profile photo",
+        "RequiredLabel": "Required Cover Photo",
+        "optionalLabel": "Optional Cover Photo",
+        "clickToUpload": "Click to upload"
+    },
+    "contentPackageStep": {
+        "title": "Add your content packages",
+        "error":"Please fill in all required fields.",
+        "packageError": "Failed to save packages. Please try again.",
+        "description":"Content packages are listed on your profile and can be purchased by brands. Unsure what to charge? Check our guide.",
+        "rateCalculator": "Use our rate calculator",
+        "fee":". Collabios takes a 15% fee.",
+        "contentType": "Content Type",
+        "quantity": "Quantity",
+        "duration":"Duration (Optional)",
+        "unit": "Unit",
+        "price": "Price (USD)",
+        "addDescription": "Add a Description",
+        "des": "Description",
+        "removePackage": "Remove Package",
+        "addPackage": "+ Add Package",
+        "minPriceError": "Minimum price is $50",
+        "durationUnits": {
+            "Hours": "Hours",
+            "Seconds": "Seconds",
+            "Minutes": "Minutes"
+        },
+        "services": {
+            "Instagram Photo Feed Post": "Instagram Photo Feed Post",
+            "Instagram Reel": "Instagram Reel",
+            "Instagram Story": "Instagram Story",
+            "Instagram Live": "Instagram Live",
+            "TikTok Video": "TikTok Video",
+            "TikTok Story": "TikTok Story",
+            "TikTok Live": "TikTok Live",
+            "UGC Product Video": "UGC Product Video",
+            "UGC Product Photo": "UGC Product Photo",
+            "UGC Video Ad": "UGC Video Ad",
+            "UGC Photo Ad": "UGC Photo Ad",
+            "UGC Tutorial": "UGC Tutorial",
+            "UGC Testimonial/Review": "UGC Testimonial/Review",
+            "UGC Unboxing": "UGC Unboxing",
+            "UGC Blog": "UGC Blog",
+            "YouTube Video": "YouTube Video",
+            "YouTube Short": "YouTube Short",
+            "YouTube Livestream": "YouTube Livestream",
+            "Twitter Tweet": "Twitter Tweet",
+            "Twitter Thread": "Twitter Thread",
+            "Twitter Retweet": "Twitter Retweet",
+            "Twitch Livestream": "Twitch Livestream"
+        }
+    },
+    "phoneNumberStep": {
+        "title": "Add your mobile number to be notified when you receive an order",
+        "invalidNumber": "Please enter a valid number",
+        "placeholder": "Phone Number" 
+    },
+    "lastStep": {
+        "title": "Last Step! Become a Trusted Creator",
+        "description": "Don't worry, it's free to use Collabios and you won't be charged for signing up. We collect this information to show brands that you are a trusted creator, and that you won't steal their products or waste their time."
+    }
+}

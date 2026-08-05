@@ -1,0 +1,21 @@
+{
+    "title": "Soumettre les exigences",
+    "subtitle": "Informez les influenceurs de ce que vous recherchez.",
+    "describeProduct": "Décrivez le produit/service que vous promouvez",
+    "describeProductPlaceholder": "Ex. Nous venons de lancer notre collection de robes d'été et nous souhaitons que vous promouviez nos robes 100% faites à la main",
+    "contentRequirements": "Quelles sont les exigences de contenu ?",
+    "contentRequirementsPlaceholder": "Ex. Nous aimerions que vous accessoirisiez la robe différemment et que le contenu soit coloré et dynamique",
+    "selectAll": "Sélectionnez tout ce qui s'applique",
+    "optional": "optionnel",
+    "contentApproval": "Approbation du contenu requise avant publication ?",
+    "physicalProduct": "Expédiez-vous un produit physique ?",
+    "productCostPlaceholder": "Quel est votre coût du produit (USD)",
+    "useForAds": "Utiliserez-vous le contenu pour des publicités ?",
+    "additionalRequirements": "De quoi avez-vous besoin des influenceurs pour commencer ?",
+    "additionalRequirementsPlaceholder": "Ex. Veuillez nous envoyer votre taille et votre préférence de couleur",
+    "deliveryDate": "Quand attendez-vous la livraison du contenu ?",
+    "deliveryDateInfo": "Cela permet de comprendre votre calendrier. Cela doit être utilisé comme une indication et non comme une date limite.",
+    "deliveryDatePlaceholder": "Sélectionnez la date de livraison",
+    "continue": "Continuer"
+  }
+  

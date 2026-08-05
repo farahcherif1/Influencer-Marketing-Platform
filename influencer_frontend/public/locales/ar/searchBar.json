@@ -1,0 +1,40 @@
+{
+  "platformOptions": {
+    "All": "الكل",
+    "Instagram": "إنستجرام",
+    "TikTok": "تيك توك",
+    "UGC": "المحتوى الذي ينشئه المستخدمون",
+    "YouTube": "يوتيوب",
+    "Twitter": "تويتر",
+    "Twitch": "تويتش"
+  },
+  "categorySuggestions": {
+    "All": "الكل",
+    "fashion": "موضة",
+    "beauty": "جمال",
+    "travel": "سفر",
+    "health_fitness": "صحة و لياقة",
+    "food_drink": "طعام و شراب",
+    "comedy_entertainment": "كوميديا و ترفيه",
+    "art_photography": "فن و تصوير",
+    "music_dance": "موسيقى و رقص",
+    "family_children": "عائلة و أطفال",
+    "entrepreneur_business": "ريادة الأعمال و الأعمال التجارية",
+    "animals_pets": "حيوانات و حيوانات أليفة",
+    "education": "تعليم",
+    "adventure_outdoors": "مغامرة و أنشطة في الهواء الطلق",
+    "athlete_sports": "رياضي و رياضات",
+    "technology": "تكنولوجيا",
+    "gaming": "ألعاب الفيديو",
+    "healthcare": "الرعاية الصحية",
+    "automotive": "السيارات",
+    "skilled_trades": "الحرف الماهرة",
+    "ecommerce": "التجارة الإلكترونية"
+  },
+  "searchBar": {
+    "platform": "المنصة",
+    "category": "الفئة",
+    "placeholder": "أدخل الكلمات المفتاحية أو الفئات أو المجالات",
+    "search": "بحث"
+  }
+}

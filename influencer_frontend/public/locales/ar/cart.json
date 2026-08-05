@@ -1,0 +1,22 @@
+{
+  "cart": "عربة التسوق",
+  "emptyTitle": "عربة التسوق فارغة",
+  "emptyDesc": "ابدأ بإضافة مؤثرين بالنقر على الزر أدناه",
+  "discover": "اكتشف المؤثرين",
+  "remove": "إزالة",
+  "confirm": "تأكيد",
+  "subtotal": "المجموع الفرعي",
+  "projectedSpend": "المصاريف المقدرة",
+  "checkout": "الدفع",
+  "modal": {
+    "header": "تقدير المؤثرين",
+    "subheader": "ليس كل المؤثرين سيقبلون طلبك.",
+    "projectionInfo": "إليك تقدير الإنفاق الفعلي بناءً على معدلات القبول.",
+    "influencersRange": "{{min}}–{{max}} مؤثرين",
+    "totalInfluencers": "{{count}} مؤثرين",
+    "estimatedSpend": "{{amount}} $ الإنفاق",
+    "total": "{{total}} $ الإجمالي",
+    "paymentProtectionHeader": "حماية الدفع",
+    "paymentProtectionDesc": "إذا تم رفض الطلب، سيتم استرداد الأموال."
+  }
+}

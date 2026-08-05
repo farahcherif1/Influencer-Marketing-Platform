@@ -1,0 +1,125 @@
+{
+    "common": {
+        "continue": "Continuer"
+    },
+    "usernameStep": {
+        "title": "Revendiquer votre nom d'utilisateur",
+        "description": "Cela sera votre nom d'utilisateur unique sur Collabios. Il peut être changé plus tard.",
+        "placeholder": "nom d'utilisateur",
+        "claim": "Revendiquer",
+        "alert": {
+            "empty": "Veuillez entrer un nom d'utilisateur",
+            "error": "Échec de la création du nom d'utilisateur. Veuillez réessayer."
+        }
+    },
+    "locationStep": {
+        "title": "Où êtes-vous situé ?",
+        "placeholder": "Entrez votre ville"
+    },
+    "titleStep": {
+        "error": "Veuillez écrire au moins 20 caractères.",
+        "title": "Résumez-vous — c'est le titre affiché sur votre profil",
+        "placeholder": "Par exemple : Créateur de contenu fitness"
+    },
+    "descriptionStep": {
+        "title": "Décrivez-vous et votre contenu",
+        "placeholder": "Par exemple : Je crée du contenu sur la forme physique et la vie saine.",
+        "error": "Veuillez écrire au moins 100 caractères."
+    },
+    "genderStep": {
+        "title": "Quel est votre genre ?",
+        "options": {
+            "Male": "Homme",
+            "Female": "Femme",
+            "Other": "Autre"
+        }
+    },
+    "socialChannelsStep": {
+        "title": "Ajoutez vos chaînes sociales",
+        "placeholder": "Entrez votre nom d'utilisateur",
+        "Followers": "Abonnés",
+        "channels": {
+            "Instagram": "Nom d'utilisateur Instagram",
+            "TikTok": "Nom d'utilisateur TikTok",
+            "YouTube": "Nom d'utilisateur YouTube",
+            "Twitter": "Nom d'utilisateur Twitter",
+            "Twitch": "Nom d'utilisateur Twitch",
+            "Amazon": "Ajouter l'URL de la boutique Amazon",
+            "Website": "Ajouter l'URL du site Web"
+        },
+        "followerRanges": {
+           "0–1k": "0–1k abonnés",
+            "1k–10k": "1k–10k abonnés",
+            "10k–50k": "10k–50k abonnés",
+            "50k–100k": "50k–100k abonnés",
+            "100k–500k": "100k–500k abonnés",
+            "500k–1m": "500k–1m abonnés",
+            "1m–5m": "1m–5m abonnés",
+            "5m–10m": "5m–10m abonnés",
+            "10m+": "10m+ abonnés"
+        }
+    },
+    "imageUploadStep": {
+        "title": "Ajoutez jusqu'à 10 images de vous et de votre contenu",
+        "profileImage": "Ajouter une photo de profil",
+        "RequiredLabel": "Photo de couverture requise",
+        "optionalLabel": "Photo de couverture facultative",
+        "clickToUpload": "Cliquez pour télécharger"
+    },
+    "contentPackageStep": {
+    "title": "Ajoutez vos forfaits de contenu",
+    "error": "Veuillez remplir tous les champs obligatoires.",
+    "packageError": "Échec de l'enregistrement des forfaits. Veuillez réessayer.",
+    "description": "Les forfaits de contenu sont affichés sur votre profil et peuvent être achetés par les marques. Vous ne savez pas combien facturer ? Consultez notre guide.",
+    "rateCalculator": "Utilisez notre calculateur de tarifs",
+    "fee": ". Collabios prend une commission de 15%.",
+    "contentType": "Type de contenu",
+    "quantity": "Quantité",
+    "duration": "Durée (Optionnel)",
+    "unit": "Unité",
+    "price": "Prix (USD)",
+    "addDescription": "Ajouter une description",
+    "des": "Description",
+    "removePackage": "Supprimer le forfait",
+    "addPackage": "+ Ajouter un forfait",
+    "minPriceError": "Le prix minimum est de 50 $",
+    "durationUnits": {
+        "Hours": "Heures",
+        "Seconds": "Secondes",
+        "Minutes": "Minutes"
+    },
+    "services": {
+        "Instagram Photo Feed Post": "Publication de photo dans le fil Instagram",
+        "Instagram Reel": "Reel Instagram",
+        "Instagram Story": "Story Instagram",
+        "Instagram Live": "Live Instagram",
+        "TikTok Video": "Vidéo TikTok",
+        "TikTok Story": "Story TikTok",
+        "TikTok Live": "Live TikTok",
+        "UGC Product Video": "Vidéo produit UGC",
+        "UGC Product Photo": "Photo produit UGC",
+        "UGC Video Ad": "Publicité vidéo UGC",
+        "UGC Photo Ad": "Publicité photo UGC",
+        "UGC Tutorial": "Tutoriel UGC",
+        "UGC Testimonial/Review": "Avis/Témoignage UGC",
+        "UGC Unboxing": "Unboxing UGC",
+        "UGC Blog": "Blog UGC",
+        "YouTube Video": "Vidéo YouTube",
+        "YouTube Short": "Short YouTube",
+        "YouTube Livestream": "Live YouTube",
+        "Twitter Tweet": "Tweet Twitter",
+        "Twitter Thread": "Thread Twitter",
+        "Twitter Retweet": "Retweet Twitter",
+        "Twitch Livestream": "Live Twitch"
+        }
+    },
+    "phoneNumberStep": {
+        "title": "Ajouter votre numéro de mobile pour être informé lors de la réception d'une commande",
+        "invalidNumber": "Veuillez entrer un numéro valide",
+        "placeholder": "Numéro de téléphone"
+    },
+    "lastStep": {
+        "title": "Dernière étape ! Devenez un créateur de confiance",
+        "description": "Ne vous inquiétez pas, l'utilisation de Collabios est gratuite et vous ne serez pas facturé lors de l'inscription. Nous collectons ces informations pour montrer aux marques que vous êtes un créateur de confiance et que vous ne volerez pas leurs produits ni ne perdrez leur temps."    
+    }
+}

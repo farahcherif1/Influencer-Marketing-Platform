@@ -1,0 +1,15 @@
+{
+  "title": "Vérifiez votre adresse e-mail",
+  "instruction": "Nous avons envoyé un e-mail à",
+  "enterCode": "Saisissez le code à 6 chiffres ci-dessous",
+  "placeholder": {
+    "code": "Code à 6 chiffres"
+  },
+  "verifying": "Vérification...",
+  "continue": "Continuer",
+  "resend": "Je n’ai pas reçu d’e-mail",
+  "error": {
+    "requiredCode": "Veuillez saisir le code à 6 chiffres",
+    "invalidCode": "Code invalide ou expiré"
+  }
+}

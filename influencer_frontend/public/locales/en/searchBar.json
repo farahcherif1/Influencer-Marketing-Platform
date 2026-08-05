@@ -1,0 +1,40 @@
+{
+  "platformOptions": {
+    "All": "All",
+    "Instagram": "Instagram",
+    "TikTok": "TikTok",
+    "UGC": "User Generated Content",
+    "YouTube": "YouTube",
+    "Twitter": "Twitter",
+    "Twitch": "Twitch"
+  },
+  "categorySuggestions": {
+    "All": "All",
+    "fashion": "Fashion",
+    "beauty": "Beauty",
+    "travel": "Travel",
+    "health_fitness": "Health & Fitness",
+    "food_drink": "Food & Drink",
+    "comedy_entertainment": "Comedy & Entertainment",
+    "art_photography": "Art & Photography",
+    "music_dance": "Music & Dance",
+    "family_children": "Family & Children",
+    "entrepreneur_business": "Entrepreneur & Business",
+    "animals_pets": "Animals & Pets",
+    "education": "Education",
+    "adventure_outdoors": "Adventure & Outdoors",
+    "athlete_sports": "Athlete & Sports",
+    "technology": "Technology",
+    "gaming": "Gaming",
+    "healthcare": "Healthcare",
+    "automotive": "Automotive",
+    "skilled_trades": "Skilled Trades",
+    "ecommerce": "Ecommerce"
+  },
+  "searchBar": {
+    "platform": "Platform",
+    "category": "Category",
+    "placeholder": "Enter keywords, niches or categories",
+    "search": "Search"
+  }
+}

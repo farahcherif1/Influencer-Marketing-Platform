@@ -1,0 +1,71 @@
+{
+    "leftPanel": {
+      "title": "Commandes",
+      "tabs": {
+        "requests": "Demandes",
+        "inProgress": "En cours",
+        "completed": "Terminées"
+      },
+      "order": "Commande"
+    },
+    "middlePanel":{
+        "newOrder": "Nouvelle commande pour",
+        "description": "Description",
+        "contentRequirements": "Exigences de contenu",
+        "postOnPage": "Vous devez publier sur votre page",
+        "contentApproval": "L'approbation du contenu est requise avant la publication",
+        "usedForAds": "Le contenu sera utilisé pour les publicités",
+        "expectedDelivery": "Livraison prévue le {{date}}",
+        "service": "Service",
+        "paymentProtection": "Pour protéger votre paiement, payez et communiquez toujours sur Collabios.",
+        "learnMore": "En savoir plus"
+    },
+    "rightPanel": {
+        "addFiles": "Ajouter des fichiers",
+        "addLink": "Ajouter un lien",
+        "uploadedFile": "Fichier téléchargé",
+        "urlPlaceholder": "URL/Lien vers le contenu",
+        "addMoreDeliverables": "Ajouter plus de livrables",
+        "submit": "Soumettre",
+        "cancel": "Annuler",
+        "orderTitle": "Commande",
+        "pending": "En attente",
+        "brandPendingMessage": "{{creatorName}} acceptera ou refusera votre commande dans un délai de 3 jours.",
+        "creatorPendingMessage": "Vous avez 3 jours pour accepter ou refuser cette commande",
+        "accept": "Accepter",
+        "confirmAccept": "Confirmer l'acceptation",
+        "decline": "Refuser",
+        "confirmDecline": "Confirmer le refus",
+        "submitPostLinkTitle": "Soumettre le lien de la publication pour être payé",
+        "submitPostLinkDescription": "Soumettez le lien de votre {{quantity}} {{serviceName}} ({{duration}}{{durationUnit}}) pour être payé.",
+        "addAnotherLink": "+ Ajouter un autre lien",
+        "submitLinks": "Soumettre les liens",
+        "didntPost": "Je n'ai rien publié pour cette commande",
+        "inProgressTitle": "En cours",
+        "brandInProgressMessage": "{{creatorName}} travaille sur votre commande.",
+        "creatorInProgressMessage": "Votre commande est en cours de traitement",
+        "submitDeliverables": "Soumettre les livrables",
+        "deliverablesTitle": "Livrables",
+        "acceptDeliverables": "Accepter les livrables",
+        "requestRevision": "ou demander une révision",
+        "declineSubmissionTitle": "Refuser la soumission",
+        "declineSubmissionPlaceholder": "Informez l'influenceur pourquoi vous refusez sa soumission et ce qu'il peut faire pour y remédier.",
+        "send": "Envoyer",
+        "markOrderComplete": "Marquer la commande comme terminée",
+        "total": "Total",
+        "orderDetails": "Détails de la commande"
+      },
+      "chatSection": {
+        "noMessages": "Pas encore de messages. Commencez la conversation !",
+        "placeholder": "Écrivez votre message..."
+      },
+      "reviewSection": {
+      "title": "Évaluer la commande",
+      "communication": "Comment s'est passée la communication avec {{otherUserName}}",
+      "timeComplete": "Dans quelle mesure êtes-vous satisfait du délai de réalisation de la commande ?",
+      "service": "Dans quelle mesure êtes-vous satisfait du service/contenu de {{otherUserName}}",
+      "commentsPlaceholder": "Commentaires supplémentaires pour {{otherUserName}}",
+      "submit": "Envoyer"
+    }
+  }
+  

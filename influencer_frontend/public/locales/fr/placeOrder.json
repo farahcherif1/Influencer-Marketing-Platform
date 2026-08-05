@@ -1,0 +1,31 @@
+{ 
+    "stepOne": "Passer la commande",
+    "stepTwo": "Soumettre les exigences",
+    "title": "Passer la commande",
+    "description": "Votre paiement sera conservé pendant 72 heures. Si un influenceur refuse la commande, le montant sera ajouté à votre solde Collabios, que vous pourrez retirer à tout moment.",
+    "orderSummary": "Résumé de la commande",
+    "subtotal": "Sous-total",
+    "fee": "Frais",
+    "total": "Total",
+    "useBalance": "Utiliser le solde",
+    "useCard": "Utiliser la carte existante",
+    "addCard": "Ajouter une nouvelle carte",
+    "balance": "Solde actuel",
+    "savedCard": "Carte enregistrée : **** **** **** 1234",
+    "addPayment": "Ajouter un nouveau mode de paiement",
+    "placeOrder": "Passer la commande",
+    "steps": {
+        "1": {
+            "title": "Passer la commande",
+        "description": "Soumettez les détails de la collaboration. Les influenceurs ont 72 heures pour accepter votre demande, sinon le montant est ajouté à votre solde Collabios, où vous pouvez le retirer ou l'utiliser sur un autre influenceur."
+        },
+        "2": {
+            "title": "Discuter avec l'influenceur",
+            "description": "Discutez avec l'influenceur et organisez la collaboration. Vos fonds sont sécurisés jusqu'à ce qu'ils terminent le travail."
+        },
+        "3": {
+            "title": "Recevoir le contenu",
+            "description": "Recevez votre contenu de l'influenceur pour révision et approbation. Une fois approuvé, la collaboration est terminée et le paiement est libéré à l'influenceur."
+        }
+    }
+}

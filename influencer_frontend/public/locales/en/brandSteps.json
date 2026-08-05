@@ -1,0 +1,78 @@
+{
+    "common": {
+      "continue": "Continue"
+    },
+    "roleStep": {
+      "title": "What is your role?",
+      "selectRole": "Select a role",
+      "pleaseSelectRole": "Please select a role",
+      "options": {
+      "Founder-Executive": "Founder / Executive",
+      "Marketing": "Marketing",
+      "Sales-Business Development": "Sales / Business Development",
+      "CustomerSuccess-Support": "Customer Success / Support",
+      "Product-Design": "Product / Design",
+      "Engineering-Technical": "Engineering / Technical",
+      "Operations-HR": "Operations / HR"
+      }
+    },
+    "industryStep": {
+      "title": "Let's find you the perfect influencer, Hello!",
+      "subtitle": "Which industry best describes your brand?",
+      "options": {
+        "Agency": "Agency",
+        "E-commerce": "E-commerce",
+        "Website/App": "Website/App",
+        "Brick & Mortar": "Brick & Mortar",
+        "Other": "Other"
+      }
+  },
+  "targetAudienceStep": {
+    "title": "What are your target platforms?",
+    "platforms": {
+      "instagram": "Instagram",
+      "tiktok": "TikTok",
+      "ugc": "User Generated Content",
+      "youtube": "YouTube"
+    }
+  },
+  "contentPiecesStep": {
+    "title": "How many pieces of content do you need from influencers each month?"
+  },
+  "annualBudgetStep": {
+    "title": "What is your budget?",
+    "options": {
+      "$1,000": "Under $1,000",
+      "$1,000 - $5,000": "$1,000 - $5,000",
+      "$5,000 - $10,000": "$5,000 - $10,000",
+      "$10,000 - $50,000": "$10,000 - $50,000",
+      "$50,000+": "$50,000+"
+    }
+  },
+  "categoriesStep": {
+    "brandTitle": "Which categories best describe your brand?",
+    "creatorTitle": "Which categories best describe your content?",
+    "categories": {
+        "fashion": "Fashion",
+        "beauty": "Beauty",
+        "travel": "Travel",
+        "health_fitness": "Health & Fitness",
+        "food_drink": "Food & Drink",
+        "comedy_entertainment": "Comedy & Entertainment",
+        "art_photography": "Art & Photography",
+        "music_dance": "Music & Dance",
+        "family_children": "Family & Children",
+        "entrepreneur_business": "Entrepreneur & Business",
+        "animals_pets": "Animals & Pets",
+        "education": "Education",
+        "adventure_outdoors": "Adventure & Outdoors",
+        "athlete_sports": "Athlete & Sports",
+        "technology": "Technology",
+        "gaming": "Gaming",
+        "healthcare": "Healthcare",
+        "automotive": "Automotive",
+        "skilled_trades": "Skilled Trades",
+        "ecommerce": "E-commerce"
+        }
+    }   
+}

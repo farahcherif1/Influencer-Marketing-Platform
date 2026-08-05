@@ -1,0 +1,37 @@
+{
+  "profile": {
+    "title": "Créateur de contenu fitness",
+    "share": "Partager",
+    "save": "Enregistrer",
+    "showPhotos": "Voir toutes les photos",
+    "location": "New York, USA",
+    "followers": "{{count}} abonnés",
+    "topCreator": "est un Top Créateur",
+    "topCreatorDescription": "Les meilleurs créateurs ont complété plusieurs commandes et ont une excellente note.",
+    "respondsFast": "Répond rapidement",
+    "respondsFastDescription": "Répond aux demandes plus rapidement que la moyenne.",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "packages": "Offres",
+    "all": "Tous",
+    "allPhotos": "toutes les Photos",
+    "instagram": "Instagram",
+    "tiktok":"TikTok",
+    "ugc": "UGC",
+    "price": "{{price}}",
+    "selectPackage": "Choisir une offre",
+    "noPackagesAvailable":"Aucune offre disponible",
+    "addToCart": "Ajouter au panier",
+    "customOffer": "Vous ne trouvez pas ce que vous cherchez ?",
+    "sendOffer": "Envoyer une offre personnalisée",
+    "reviews": "{{count}} avis",
+    "portfolio": "Portfolio",
+    "shareDialog": {
+      "title": "Partager le profil",
+      "copyLink": "Copier",
+      "linkCopied": "Lien copié !",
+      "close": "Fermer"
+    },
+    "seeMore":"Voir plus",
+    "seeLess":"Voir Moins"
+  }
+}

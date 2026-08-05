@@ -1,0 +1,22 @@
+{
+  "cart": "Panier",
+  "emptyTitle": "Votre panier est vide",
+  "emptyDesc": "Commencez à ajouter des influenceurs en cliquant sur le bouton ci-dessous",
+  "discover": "Découvrir les influenceurs",
+  "remove": "Supprimer",
+  "confirm": "Confirmer",
+  "subtotal": "Total partiel",
+  "projectedSpend": "Dépenses estimées",
+  "checkout": "Passer à la caisse",
+  "modal": {
+    "header": "Influenceurs estimés",
+    "subheader": "Tous les influenceurs n’accepteront pas votre commande.",
+    "projectionInfo": "Voici une projection de votre dépense réelle basée sur les taux d’acceptation.",
+    "influencersRange": "{{min}}–{{max}} influenceurs",
+    "totalInfluencers": "{{count}} influenceurs",
+    "estimatedSpend": "{{amount}} $ dépensés",
+    "total": "{{total}} $ total",
+    "paymentProtectionHeader": "Protection de paiement",
+    "paymentProtectionDesc": "Si une commande est refusée, les fonds seront remboursés."
+  }
+}

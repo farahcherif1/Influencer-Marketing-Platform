@@ -1,0 +1,71 @@
+{
+    "leftPanel": {
+      "title": "الطلبات",
+      "tabs": {
+        "requests": "الطلبات",
+        "inProgress": "قيد التنفيذ",
+        "completed": "مكتملة"
+      },
+      "order": "طلب"
+    },
+    "middlePanel":{
+        "newOrder": "طلب جديد مقابل",
+        "description": "الوصف",
+        "contentRequirements": "متطلبات المحتوى",
+        "postOnPage": "يجب عليك النشر على صفحتك",
+        "contentApproval": "يتطلب الموافقة على المحتوى قبل النشر",
+        "usedForAds": "سيُستخدم المحتوى للإعلانات",
+        "expectedDelivery": "التسليم المتوقع في {{date}}",
+        "service": "خدمة",
+        "paymentProtection": "لحماية دفعتك، ادفع وتواصل دائمًا عبر Collabios.",
+        "learnMore": "اعرف المزيد"
+    },
+    "rightPanel": {
+        "addFiles": "إضافة ملفات",
+        "addLink": "إضافة رابط",
+        "uploadedFile": "ملف مرفوع",
+        "urlPlaceholder": "رابط/رابط للمحتوى",
+        "addMoreDeliverables": "إضافة المزيد من التسليمات",
+        "submit": "إرسال",
+        "cancel": "إلغاء",
+        "orderTitle": "الطلب",
+        "pending": "قيد الانتظار",
+        "brandPendingMessage": "سيقوم {{creatorName}} بقبول أو رفض طلبك خلال 3 أيام.",
+        "creatorPendingMessage": "لديك 3 أيام لقبول أو رفض هذا الطلب",
+        "accept": "قبول",
+        "confirmAccept": "تأكيد القبول",
+        "decline": "رفض",
+        "confirmDecline": "تأكيد الرفض",
+        "submitPostLinkTitle": "أرسل رابط المنشور للحصول على الدفع",
+        "submitPostLinkDescription": "قم بإرسال الرابط الخاص بـ {{quantity}} {{serviceName}} ({{duration}}{{durationUnit}}) للحصول على الدفع.",
+        "addAnotherLink": "+ إضافة رابط آخر",
+        "submitLinks": "إرسال الروابط",
+        "didntPost": "لم أنشر أي شيء لهذا الطلب",
+        "inProgressTitle": "قيد التنفيذ",
+        "brandInProgressMessage": "{{creatorName}} يعمل على طلبك.",
+        "creatorInProgressMessage": "يتم معالجة طلبك",
+        "submitDeliverables": "إرسال التسليمات",
+        "deliverablesTitle": "التسليمات",
+        "acceptDeliverables": "قبول التسليمات",
+        "requestRevision": "أو طلب مراجعة",
+        "declineSubmissionTitle": "رفض التسليم",
+        "declineSubmissionPlaceholder": "أخبر المؤثر سبب رفضك لتسليمه وما يمكنه فعله لتصحيح ذلك.",
+        "send": "إرسال",
+        "markOrderComplete": "وضع الطلب كمكتمل",
+        "total": "الإجمالي",
+        "orderDetails": "تفاصيل الطلب"
+    },
+    "chatSection": {
+      "noMessages": "لا توجد رسائل بعد. ابدأ المحادثة!",
+      "placeholder": "اكتب رسالتك..."
+    },
+    "reviewSection": {
+      "title": "تقييم الطلب",
+      "communication": "كيف كانت تجربتك في التواصل مع {{otherUserName}}",
+      "timeComplete": "ما مدى رضاك عن الوقت المستغرق لإكمال الطلب؟",
+      "service": "ما مدى رضاك عن الخدمة/المحتوى من {{otherUserName}}",
+      "commentsPlaceholder": "تعليقات إضافية لـ {{otherUserName}}",
+      "submit": "إرسال"
+    }
+  }
+  

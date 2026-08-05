@@ -1,0 +1,36 @@
+{
+  "header": {
+    "title": "Earn $20 Cash for Every Brand You Refer to Collabios",
+    "description": "Welcome to your referral dashboard. Get $20 cash for every brand that signs up and makes an order through your link. They will also get $10 towards their first order.",
+    "button": "Share Your Link"
+  },
+  "metrics": {
+    "referrals": {
+      "label": "Total Referrals",
+      "tooltip": "Total number of brands you've referred.",
+      "count": "0"
+    },
+    "commission": {
+      "label": "Total Commission",
+      "tooltip": "Total commission you've earned from referrals.",
+      "amount": "$0.00"
+    }
+  },
+  "table": {
+    "title": "Referrals",
+    "headers": {
+      "date": "Date",
+      "status": "Status",
+      "commission": "Commission"
+    },
+    "empty": "Your referrals will be shown here."
+  },
+  "modal": {
+    "title": "Share Your Link",
+    "copy": "Copy",
+    "inviteInput": "Invite via email",
+    "inviteButton": "Invite",
+    "inviteSuccess": "Invitation sent successfully!",
+    "invalidEmail": "Please enter a valid email."
+  }
+}

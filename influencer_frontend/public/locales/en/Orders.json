@@ -1,0 +1,71 @@
+{
+    "leftPanel": {
+      "title": "Orders",
+      "tabs": {
+        "requests": "Requests",
+        "inProgress": "In-progress",
+        "completed": "Completed"
+      },
+      "order": "Order"
+    },
+    "middlePanel":{
+        "newOrder": "New Order for",
+        "description": "Description",
+        "contentRequirements": "Content Requirements",
+        "postOnPage": "You are required to post on your page",
+        "contentApproval": "Content approval is required before posting",
+        "usedForAds": "Content will be used for ads",
+        "expectedDelivery": "Expected delivery by {{date}}",
+        "service": "Service",
+        "paymentProtection": "To protect your payment, always pay and communicate on Collabios.",
+        "learnMore": "Learn More"
+    },
+    "rightPanel": {
+      "addFiles": "Add Files",
+      "addLink": "Add Link",
+      "uploadedFile": "Uploaded file",
+      "urlPlaceholder": "Url/Link to content",
+      "addMoreDeliverables": "Add More Deliverables",
+      "submit": "Submit",
+      "cancel": "Cancel",
+      "orderTitle": "Order",
+      "pending": "Pending",
+      "brandPendingMessage": "{{creatorName}} will accept or decline your order within 3 days.",
+      "creatorPendingMessage": "You have 3 days to accept or decline this order",
+      "accept": "Accept",
+      "confirmAccept": "Confirm Accept",
+      "decline": "Decline",
+      "confirmDecline": "Confirm Decline",
+      "submitPostLinkTitle": "Submit Post Link to Get Paid",
+      "submitPostLinkDescription": "Submit the link to your {{quantity}} {{serviceName}} ({{duration}}{{durationUnit}}) to get paid out.",
+      "addAnotherLink": "+ Add Another Link",
+      "submitLinks": "Submit Links",
+      "didntPost": "I didn't post anything for this order",
+      "inProgressTitle": "In Progress",
+      "brandInProgressMessage": "{{creatorName}} is working on your order.",
+      "creatorInProgressMessage": "Your order is being processed",
+      "submitDeliverables": "Submit deliverables",
+      "deliverablesTitle": "Deliverables",
+      "acceptDeliverables": "Accept Deliverables",
+      "requestRevision": "or Request a revision",
+      "declineSubmissionTitle": "Decline Submission",
+      "declineSubmissionPlaceholder": "Let the influencer know why you're declining their submission and what they can do to resolve it.",
+      "send": "Send",
+      "markOrderComplete": "Mark Order Complete",
+      "total": "Total",
+      "orderDetails": "Order Details"
+    },
+    "chatSection": {
+      "noMessages": "No messages yet. Start the conversation!",
+      "placeholder": "Type your message..."
+    },
+    "reviewSection": {
+        "title": "Review Order",
+        "communication": "How was the communication with {{otherUserName}}",
+        "timeComplete": "How satisfied are you with the time it took to complete the order?",
+        "service": "How satisfied are you with the service/content from {{otherUserName}}",
+        "commentsPlaceholder": "Additional comments for {{otherUserName}}",
+        "submit": "Submit"
+    }
+}
+  

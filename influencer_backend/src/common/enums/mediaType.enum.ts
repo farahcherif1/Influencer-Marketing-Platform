@@ -1,0 +1,5 @@
+export enum MediaType {
+  PROFILE_PICTURE = 'PROFILE_PICTURE',
+  COVER_PICTURE = 'COVER_PICTURE',
+  OTHER = 'OTHER',
+}

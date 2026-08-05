@@ -1,0 +1,37 @@
+{
+  "profile": {
+    "title": "منشئ محتوى للياقة البدنية",
+    "share": "مشاركة",
+    "save": "حفظ",
+    "showPhotos": "عرض جميع الصور",
+    "location": "نيويورك، الولايات المتحدة",
+    "followers": "{{count}} متابع",
+    "topCreator": "من أفضل المبدعين",
+    "topCreatorDescription": "أفضل المبدعين أكملوا عدة طلبات ولديهم تقييم عالٍ من العلامات التجارية.",
+    "respondsFast": "يستجيب بسرعة",
+    "respondsFastDescription": "يستجيب للطلبات أسرع من معظم المبدعين.",
+    "description": "لوريم إيبسوم دولور سيت أميت، كونسيكتيتور أديبيسكينغ إيليت.",
+    "packages": "الباقات",
+    "all": "الكل",
+    "allPhotos": "جميع الصور",
+    "instagram": "إنستغرام",
+    "tiktok":"تيكتوك",
+    "ugc": "محتوى المستخدم",
+    "price": "{{price}}",
+    "selectPackage": "اختر باقة",
+     "noPackagesAvailable":"لا توجد باقة",
+    "addToCart": "أضف إلى السلة",
+    "customOffer": "لا يمكنك العثور على ما تحتاجه؟",
+    "sendOffer": "أرسل عرضًا مخصصًا",
+    "reviews": "{{count}} تقييم",
+    "portfolio": "أعمالي",
+    "shareDialog": {
+      "title": "مشاركة الملف الشخصي",
+      "copyLink": "نسخ",
+      "linkCopied": "!تم نسخ الرابط",
+      "close": "إغلاق"
+    },
+    "seeMore":"رؤية المزيد",
+    "seeLess":" رؤية اقل"
+  }
+}

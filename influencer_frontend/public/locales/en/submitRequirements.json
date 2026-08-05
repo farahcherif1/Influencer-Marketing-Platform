@@ -1,0 +1,21 @@
+{
+    "title": "Submit requirements",
+    "subtitle": "Let the influencers know what you are looking for.",
+    "describeProduct": "Describe the product/service you are promoting",
+    "describeProductPlaceholder": "E.g. We just launched our summer dress collection and want you to promote our sundresses that are 100% handmade",
+    "contentRequirements": "What are the content requirements?",
+    "contentRequirementsPlaceholder": "E.g. We would like you to style the dress with different accessories and make the content vibrant and colorful",
+    "selectAll": "Select all that apply",
+    "optional": "optional",
+    "contentApproval": "Content approval required before posting?",
+    "physicalProduct": "Are you shipping a physical product?",
+    "productCostPlaceholder": "What is your cost on the product (USD)",
+    "useForAds": "Will you be using the content for ads?",
+    "additionalRequirements": "What do you need from the influencers to get started?",
+    "additionalRequirementsPlaceholder": "E.g. Please send us your dress size and color preference",
+    "deliveryDate": "When do you expect the content to be delivered by?",
+    "deliveryDateInfo": "This helps understand your timeline. It should be used as a guideline and not a deadline.",
+    "deliveryDatePlaceholder": "Select delivery date",
+    "continue": "Continue"
+  }
+  

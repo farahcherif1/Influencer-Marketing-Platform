@@ -1,0 +1,38 @@
+{
+  "profile": {
+    "title": "Fitness content creator",
+    "share": "Share",
+    "save": "Save",
+    "showPhotos": "Show All Photos",
+    "location": "New York, USA",
+    "followers": "{{count}} Followers",
+    "topCreator": "is a Top Creator",
+    "topCreatorDescription": "Top creators have completed multiple orders and have a high rating from brands.",
+    "respondsFast": "Responds Fast",
+    "respondsFastDescription": "Responds to requests faster than most creators.",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "packages": "Packages",
+    "all": "All",
+    "allPhotos": "All Photos",
+    "instagram": "Instagram",
+    "tiktok":"TikTok",
+    "ugc": "UGC",
+    "price": "{{price}}",
+    "selectPackage": "Select Package",
+    "noPackagesAvailable":"No packages available",
+    "addToCart": "Add to Cart",
+    "customOffer": "Can't find what you need?",
+    "sendOffer": "Send a Custom Offer",
+    "reviews": "{{count}} Reviews",
+    "portfolio": "Portfolio",
+    "shareDialog": {
+      "title": "Share Profile",
+      "copyLink": "Copy ",
+      "linkCopied": "Link Copied!",
+      "shareViaTwitter": "Share via Twitter",
+      "shareViaEmail": "Share via Email"
+    },
+    "seeMore":"See More",
+    "seeLess":"See Less"
+  }
+}

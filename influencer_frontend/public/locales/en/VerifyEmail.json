@@ -1,0 +1,15 @@
+{
+  "title": "Verify your email",
+  "instruction": "We sent an email to",
+  "enterCode": "Enter the 6-digit code below",
+  "placeholder": {
+    "code": "6-Digit Code"
+  },
+  "verifying": "Verifying...",
+  "continue": "Continue",
+  "resend": "I didn’t receive an email",
+  "error": {
+    "requiredCode": "Please enter the 6-digit code",
+    "invalidCode": "Invalid or expired code"
+  }
+}

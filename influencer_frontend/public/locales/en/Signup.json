@@ -1,0 +1,63 @@
+{
+  "SignupBrand": {
+    "createYourAccount": "Create Your Brand Account",
+    "fullName": "Full Name",
+    "brandName": "Brand Name",
+    "email": "Email",
+    "password": "Password",
+    "signUp": "Sign Up",
+    "continueWithGoogle": "Continue with Google",
+    "or": "or",
+
+    "validation": {
+      "required": "This field is required",
+      "email": "Invalid email format",
+      "passwordLength": "Password must be at least 6 characters"
+    },
+    "agreementPrefix": "By signing up, you agree to our",
+    "terms": "Terms",
+    "and": "and",
+    "privacyPolicy": "Privacy Policy",
+    "alreadyHaveAccount": "Already have an account?",
+    "login": "Login"
+  },
+
+  "SignupCreator":{
+      "createYourAccount": "Create Your Creator Account"
+    },
+
+ "LoginPage": {
+    "title": "Welcome Back",
+    "email": "Email",
+    "password": "Password",
+    "loginButton": "Login",
+    "continueWithGoogle": "Continue with Google",
+    "forgotPassword": "Forgot Password?",
+    "error": {
+      "api": "Login failed. Please check your credentials."
+    }
+  },
+  "ForgotPasswordPage": {
+    "title": "Reset Password",
+    "success": "Password reset email sent successfully.",
+    "email": "Enter your email",
+    "sendButton": "Send Reset Email",
+    "backToLogin": "Want to try again? Login",
+    "error": "Failed to send reset email. Please try again."
+  },
+  "ResetPasswordPage": {
+    "title": "Reset Password",
+    "newPassword": "New Password",
+    "confirmPassword": "Confirm New Password",
+    "resetButton": "Reset Password",
+    "success": "Your password has been reset successfully. You can now log in.",
+    "error": "Failed to reset password. Please try again."
+  },
+  "validation": {
+    "required": "This field is required",
+    "email": "Invalid email format",
+    "passwordLength": "Password must be at least 6 characters",
+    "match": "Passwords do not match"
+  }
+}
+

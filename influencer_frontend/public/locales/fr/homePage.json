@@ -1,0 +1,207 @@
+{
+      "influencer_marketing_made_easy": "Le marketing d’influence facilité",
+        "find_and_hire_influencers": "Trouvez et engagez les meilleurs influenceurs Instagram, TikTok, YouTube et UGC pour créer du contenu unique pour votre marque",
+
+  "no_upfront_cost": {
+    "title": "Aucun frais initiaux",
+    "description": "Recherchez des influenceurs gratuitement. Aucunes abonnements, contrats ou frais cachés."
+  },
+  "vetted_influencers": {
+    "title": "Influenceurs vérifiés",
+    "description": "Chaque influenceur est vérifié par nos soins. Recevez toujours un contenu de haute qualité et professionnel."
+  },
+  "instant_chat": {
+    "title": "Chat instantané",
+    "description": "Discutez instantanément avec les influenceurs et restez en contact pendant toute la transaction."
+  },
+  "secure_purchases": {
+    "title": "Achats sécurisés",
+    "description": "Votre argent est conservé en toute sécurité jusqu'à ce que vous approuviez le travail de l'influenceur."
+  },
+  
+  "compains_minititle": "Campagnes",
+  "compains_title": "Publiez des campagnes et faites venir plus de 250 000 influenceurs",
+
+
+  "set_targeting": {
+    "title": "Définir le ciblage",
+    "description": "Précisez les données démographiques, y compris la niche, la localisation et la taille de l'audience des influenceurs que vous souhaitez cibler."
+  },
+  "post_campaign": {
+    "title": "Publier la campagne",
+    "description": "Centralisez vos images, exigences, et plus dans un brief de campagne envoyé à 250 000 influenceurs."
+  },
+  "influencers_apply": {
+    "title": "Les influenceurs postulent",
+    "description": "Les influenceurs ciblés soumettent leurs tarifs et vous choisissez avec qui collaborer."
+  },
+
+  "track_one_click_tracking_title": "Suivi en un clic",
+  "track_one_click_tracking_description": "Suivez le contenu Instagram, TikTok et YouTube en temps réel depuis un seul tableau de bord. Dites adieu aux suivis manuels et aux tableurs en désordre.",
+  
+  "track_advanced_analytics_title": "Analytique avancée et rapports",
+  "track_advanced_analytics_description": "Analysez la performance du contenu au fil du temps, y compris les impressions, l'engagement et plus encore. Organisez la performance par campagne et créez des rapports facilement.",
+  
+  "track_fully_automated_title": "Entièrement automatisé",
+  "track_fully_automated_description": "Les métriques sont mises à jour toutes les 24 heures, garantissant que les données de performance sont toujours à jour.",
+
+  "feature_track_mintitle": "Suivi",
+  "feature_track_title": "Suivez les analyses et la performance des publications en temps réel",
+
+
+  "feature_search_mintitle": "Recherche",
+  "feature_search_title": "Trouvez et embauchez des influenceurs en quelques secondes sur le marketplace",
+  "search_table_title_1": "Rechercher des influenceurs",
+  "search_table_description_1": "Recherchez des milliers d'influenceurs Instagram, TikTok et YouTube vérifiés.",
+  "search_table_title_2": "Achetez et discutez en toute sécurité",
+  "search_table_description_2": "Achetez en toute sécurité et communiquez via Collabios. Nous retenons votre paiement jusqu'à la fin du travail.",
+  "search_table_title_3": "Recevez du contenu de qualité",
+  "search_table_description_3": "Recevez votre contenu de qualité directement des influenceurs via la plateforme.",
+   "categoryNavigation": {
+    "risingStars": "Étoiles montantes",
+    "mostViewed": "Les plus vus",
+    "trending": "Tendance",
+    "under250": "Sous $250",
+    "fastTurnover": "Rotation rapide",
+    "topCreator": "Top créateur"
+  },
+
+  
+  "testimonials": [
+    {
+      "subtitle": "5 étoiles d'un créateur et d'une marque",
+      "content": "J'ai utilisé Collabios à la fois du côté des créateurs et des marques ! C'est extrêmement facile à utiliser et cela a conduit à des relations formidables avec des créateurs et des marques avec lesquels je n'aurais pas été connecté autrement. J'adore la plateforme !",
+      "author": "Layla - Influenceuse & Fondatrice"
+    },
+    {
+      "subtitle": "La meilleure plateforme pour se connecter avec des influenceurs",
+      "content": "La meilleure plateforme pour se connecter avec des influenceurs et des créateurs de contenu. Je me suis inscrite sur plusieurs plateformes, mais Collabios est la plus facile à utiliser et donne les meilleurs résultats pour ma marque.",
+      "author": "Myriam - Fondatrice de BBeyond"
+    },
+    {
+      "subtitle": "Excellente façon de générer du contenu",
+      "content": "J'utilise Collabios pour générer du contenu pour nos collections de vêtements saisonnières. C'est super facile pour nous de rechercher des influenceurs pertinents et de les rémunérer. Nous économisons au moins 10-20 heures par mois grâce à cela.",
+      "author": "Courtney - Marketer"
+    }
+  ],
+
+
+  "creatorTable": [
+    {
+      "name": "Hannah Chanté Cowx",
+      "description": "Influenceuse culinaire, Photographe",
+      "location": "Los Angeles"
+    },
+    {
+      "name": "Hannah Chanté Cowx",
+      "description": "Influenceuse culinaire, Photographe",
+      "location": "Los Angeles"
+    },
+    {
+      "name": "Hannah Chanté Cowx",
+      "description": "Influenceuse culinaire, Photographe",
+      "location": "Los Angeles"
+    },
+    {
+      "name": "Hannah Chanté Cowx",
+      "description": "Influenceuse culinaire, Photographe",
+      "location": "Los Angeles"
+    }
+  ],
+  "sections": {
+    "featured": {
+      "title": "En vedette",
+      "minidescription": "Engagez les meilleurs influenceurs sur toutes les plateformes"
+    },
+    "instagram": {
+      "title": "Instagram",
+      "minidescription": "Engagez des influenceurs Instagram"
+    },
+    "tiktok": {
+      "title": "TikTok",
+      "minidescription": "Engagez des influenceurs TikTok"
+    },
+    "youtube": {
+      "title": "Youtube",
+      "minidescription": "Engagez des influenceurs YouTube"
+    },
+    "ugc": {
+      "title": "Contenu généré par les utilisateurs",
+      "minidescription": "Engagez des influenceurs pour du contenu UGC"
+    }
+  },
+
+"MarketinFAQ":[
+  {
+    "question": "Qu'est-ce que le marketing d'influence ?",
+    "answer": "Le marketing d'influence est une stratégie de marketing numérique qui consiste à collaborer avec des individus, appelés influenceurs, ayant un public dédié et engagé sur les réseaux sociaux et autres canaux en ligne. Ces influenceurs peuvent influencer les décisions d'achat de leurs abonnés grâce à leur crédibilité et autorité dans des niches spécifiques. Les marques s'associent à eux pour promouvoir leurs produits/services authentiquement, bâtir une preuve sociale et étendre leur portée à une audience plus large et ciblée."
+  },
+  {
+    "question": "Comment fonctionne le marketing d'influence ?",
+    "answer": "Le marketing d'influence fonctionne en identifiant des influenceurs pertinents, en établissant un partenariat, et en créant du contenu diffusé via leurs canaux (publicités sponsorisées, tutoriels, avis). L'influenceur partage ce contenu avec son audience, présentant votre marque à <1>un public réceptif</1>. La clé du succès réside dans un contenu authentique et pertinent qui résonne à la fois avec les abonnés de l'influenceur et le message de votre marque."
+  },
+  {
+    "question": "Pourquoi le marketing d'influence est-il important ?",
+    "answer": "Il permet aux marques de se connecter authentiquement avec leur audience cible. Moins intrusif que la publicité traditionnelle, il inspire confiance grâce aux recommandations de sources fiables. Il accroît la notoriété, renforce la crédibilité, génère du trafic, stimule les ventes et fidélise les clients."
+  },
+  {
+    "question": "Comment trouver les bons influenceurs pour ma marque ?",
+    "answer": "Identifiez votre audience cible et ses plateformes privilégiées. Utilisez l'outil Collabios pour <0>rechercher des influenceurs </0> dans votre niche. Filtrez par genre, prix, localisation, âge, etc. Une fois un influenceur identifié, achetez l'un de ses packs prédéfinis ou envoyez-lui une offre personnalisée via son profil.",
+  "linkText":"rechercher des influenceurs"
+},
+  {
+    "question": "Quels sont les avantages du marketing d'influence pour ma marque ?",
+    "answer": "Il élargit la portée de votre marque, construit la confiance via la preuve sociale, génère des conversions et est souvent plus rentable que les méthodes traditionnelles. Il permet aussi de toucher des audiences ciblées et engagées difficiles d'accès autrement. Ses bénéfices sont uniques comparés aux autres canaux marketing."
+  },
+  {
+    "question": "Combien coûte le marketing d'influence ?",
+    "answer": "Le coût varie selon la portée, la niche et <0> l'engagement de l'influenceur</0>. Les micro-influenceurs (petite audience) facturent moins que les macro-influenceurs ou célébrités. Certains travaillent au forfait par publication, d'autres en partenariats continus. Utilisez les filtres de prix de Collabios pour trouver des influenceurs dans votre budget et gagner du temps.",
+  
+"linkText":" l'engagement de l'influenceur"
+},
+  {
+    "question": "Quels sont les types de campagnes d'influence ?",
+    "answer": "Il existe plusieurs formats : tests de produits, posts sponsorisés, prises de compte , concours et marketing d'affiliation. Choisissez un format aligné sur vos objectifs et les forces de l'influenceur. Utilisez <0> un modèle de brief </0> pour structurer tous les détails essentiels au succès de votre campagne.",
+    "linkText":"un modèle de brief"
+  },
+  {
+    "question": "Comment mesurer le succès d'une campagne d'influence ?",
+    "answer": "Suivez les KPI : taux de clics, conversions et ROI. Utilisez des codes promo ou liens de tracking dédiés. Notez que l'impact inclut aussi la preuve sociale (des clients peuvent vous trouver sans cliquer). Analysez les retours de l'influenceur et le sentiment de l'audience pour évaluer l'impact sur l'image de marque."
+  },
+  {
+    "question": "Quelles erreurs éviter dans le marketing d'influence ?",
+    "answer": "1. Ne pas définir d'objectifs/clairs. 2. Négliger la communication sur les changements (délais, objectifs). 3. S'attendre à atteindre systématiquement les KPI : concentrez-vous plutôt sur l'analyse des données pour ajuster les campagnes itérativement jusqu'aux résultats souhaités."
+  }
+],
+
+
+  "categories": {
+    "Fashion": "Mode" ,
+     "Music & Dance": "Musique et Danse" ,
+     "Beauty": "Beauté" ,
+     "Travel": "Voyage" 
+  },
+
+"find_influencer": "Trouvez et embauchez des influenceurs",
+"search_description": "Recherchez des influenceurs sur Instagram, TikTok et YouTube.",
+"search_button": "Rechercher des influenceurs",
+"top_creator": "Meilleur créateur",
+"see_all": "Voir tout",
+"categorie": "Catégories",
+"case": "Études de cas",
+  "trustedBy": "Fiable pour plus de 180 000 marques",
+  "collaborations": "Découvrez les collaborations avec des marques comme Wealthsimple, Hopper, Deezer et bien d'autres.",
+    "brands_work_with_influencers": "180 000+ marques travaillent avec des influenceurs sur Collabios",
+
+  "case_studies": {
+    "wealthsimple_title": "Wealthsimple lance 'Wealthsimple Cash' avec des influenceurs Instagram et TikTok sur Collabios",
+    "numi_title": "Numi génère 50 000+ impressions pour la nouvelle collection printemps avec Collabios",
+    "team_title": "Une agence de publicité obtient plus de 100 influenceurs par mois en pilote automatique avec Collabios"
+  }
+
+
+
+
+
+
+}

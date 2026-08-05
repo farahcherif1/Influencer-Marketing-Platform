@@ -1,0 +1,57 @@
+name: CD Pipeline
+
+on:
+  workflow_run:
+    workflows: [Run backend tests & build image] 
+    types:
+      - completed
+    branches:
+      - 'main'
+      - 'staging-cd'
+
+jobs:
+  deploy:
+    if: ${{ github.event.workflow_run.conclusion == 'success' }}
+    runs-on: ubuntu-latest
+    environment: staging
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install Dependencies
+        run: npm ci
+
+      - name: Download AWS RDS CA bundle
+        run: |
+          mkdir -p $RUNNER_TEMP/certs
+          curl -sSL -o $RUNNER_TEMP/certs/rds-ca-bundle.pem \
+            https://truststore.pki.rds.amazonaws.com/global/global-bundle.pem
+
+      - name: Run Migrations
+        env:
+          DATABASE_URL: ${{ secrets.DATABASE_URL }}
+          NODE_EXTRA_CA_CERTS: ${{ runner.temp }}/certs/rds-ca-bundle.pem
+          NODE_ENV : prod
+        run: |
+          echo "CA file present: $NODE_EXTRA_CA_CERTS"
+          ls -l $NODE_EXTRA_CA_CERTS 
+            npm run migration:generate || true
+            npm run migration:run
+          
+      - name: Deploy to EC2
+        uses: appleboy/ssh-action@v1.0.0
+        with:
+          host: ${{ secrets.EC2_HOST }}
+          username: ${{ secrets.EC2_USER }}
+          key: ${{ secrets.EC2_SSH_KEY }}
+          script: |
+            cd /home/deploybot/app/CollabiosStaging
+            echo ${{ secrets.DOCKERHUB_TOKEN }} | docker login -u ${{ secrets.DOCKERHUB_USERNAME }} --password-stdin
+            docker compose pull
+            docker compose up -d

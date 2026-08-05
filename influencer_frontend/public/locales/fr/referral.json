@@ -1,0 +1,36 @@
+{
+  "header": {
+    "title": "Gagnez 20 $ pour chaque marque que vous recommandez à Collabios",
+    "description": "Bienvenue sur votre tableau de bord de parrainage. Gagnez 20 $ pour chaque marque qui s’inscrit et passe une commande via votre lien. Elle recevra également 10 $ pour sa première commande.",
+    "button": "Partager votre lien"
+  },
+  "metrics": {
+    "referrals": {
+      "label": "Parrainages totaux",
+      "tooltip": "Nombre total de marques que vous avez parrainées.",
+      "count": "0"
+    },
+    "commission": {
+      "label": "Commission totale",
+      "tooltip": "Commission totale que vous avez gagnée grâce aux parrainages.",
+      "amount": "0,00 $"
+    }
+  },
+  "table": {
+    "title": "Parrainages",
+    "headers": {
+      "date": "Date",
+      "status": "Statut",
+      "commission": "Commission"
+    },
+    "empty": "Vos parrainages s'afficheront ici."
+  },
+  "modal": {
+    "title": "Partager votre lien",
+    "copy": "Copier",
+    "inviteInput": "Inviter par email",
+    "inviteButton": "Inviter",
+    "inviteSuccess": "Invitation envoyée avec succès !",
+    "invalidEmail": "Veuillez saisir une adresse email valide."
+  }
+}

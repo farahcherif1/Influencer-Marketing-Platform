@@ -1,0 +1,16 @@
+import { BaseEntity as TypeOrmBaseEntity } from "typeorm";
+
+export abstract class BaseEntity extends TypeOrmBaseEntity {
+  // Common properties to all entites can be added here, such as:
+  // id: number;
+  // createdAt: Date;
+  // updatedAt: Date;
+
+  // Example of a common property
+  id: number;
+
+  // You can also add methods that are common to all entities
+  getId(): number {
+    return this.id;
+  }
+}

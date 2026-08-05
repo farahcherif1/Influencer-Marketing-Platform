@@ -1,0 +1,61 @@
+{
+  "SignupBrand": {
+    "createYourAccount": "Créez votre compte marque",
+    "fullName": "Nom complet",
+    "brandName": "Nom de la marque",
+    "email": "Email",
+    "password": "Mot de passe",
+    "signUp": "S'inscrire",
+    "continueWithGoogle": "Continuer avec Google",
+    "or": "ou",
+
+    "validation": {
+      "required": "Ce champ est requis",
+      "email": "Format d'email invalide",
+      "passwordLength": "Le mot de passe doit contenir au moins 6 caractères"
+    },
+    "agreementPrefix": "En vous inscrivant, vous acceptez nos",
+    "terms": "Conditions d'utilisation",
+    "and": "et",
+    "privacyPolicy": "Politique de confidentialité",
+    "alreadyHaveAccount": "Vous avez déjà un compte ?",
+    "login": "Se connecter"
+  },
+
+  "SignupCreator": {
+    "createYourAccount": "Créez votre compte créateur"
+  },
+
+  "LoginPage": {
+    "title": "Bon retour",
+    "email": "Email",
+    "password": "Mot de passe",
+    "loginButton": "Se connecter",
+    "continueWithGoogle": "Continuer avec Google",
+    "forgotPassword": "Mot de passe oublié ?",
+    "error": {
+      "api": "Échec de la connexion. Veuillez vérifier vos informations d'identification."
+    }
+  },
+  "ForgotPasswordPage": {
+    "title": "Réinitialiser le mot de passe",
+    "success": "Email de réinitialisation de mot de passe envoyé avec succès.",
+    "email": "Entrez votre email",
+    "sendButton": "Envoyer l'email de réinitialisation",
+    "backToLogin": "Vous voulez réessayer ? Connexion",
+    "error": "Échec de l'envoi de l'email de réinitialisation. Veuillez réessayer."
+  },
+  "ResetPasswordPage": {
+    "title": "Réinitialiser le mot de passe",
+    "newPassword": "Nouveau mot de passe",
+    "confirmPassword": "Confirmer le nouveau mot de passe",
+    "resetButton": "Réinitialiser le mot de passe",
+    "success": "Votre mot de passe a été réinitialisé avec succès. Vous pouvez maintenant vous connecter.",
+    "error": "Échec de la réinitialisation du mot de passe. Veuillez réessayer."
+  },
+  "validation": {
+    "required": "Ce champ est requis",
+    "email": "Format d'email invalide",
+    "passwordLength": "Le mot de passe doit contenir au moins 6 caractères"
+  }
+}

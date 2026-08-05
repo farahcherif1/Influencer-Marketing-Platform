@@ -1,0 +1,31 @@
+{ 
+    "stepOne": "Place Order",
+    "stepTwo": "Submit Requirements",
+    "title": "Place Order",
+    "description": " Your payment will be held for 72 hours. If an influencer declines the order, the amount will be added to your Collabios balance, which you can withdraw at any time.",
+    "orderSummary": "Order Summary",
+    "subtotal": "Subtotal",
+    "fee": "Fee",
+    "total": "Total",
+    "useBalance": "Use Balance",
+    "useCard": "Use Existing Card",
+    "addCard": "Add New Card",
+    "balance": "Current Balance",
+    "savedCard": "Saved card: **** **** **** 1234",
+    "addPayment": "Add a new payment method",
+    "placeOrder": "Place Order",
+    "steps": {
+        "1": {
+            "title": "Place Order",
+        "description": "Submit the details of the collaboration. Influencers have 72 hours to accept your request, otherwise the amount is added to your Collabios balance, where you can withdraw it or use it on another influencer."
+        },
+        "2": {
+            "title": "Chat With Influencer",
+            "description": "Chat with the influencer and arrange the collaboration. Your funds are held secure until they complete the work."
+        },
+        "3": {
+            "title": "Receive Content",
+            "description": "  Receive your content from the influencer to review and approve. Once approved, the collaboration is complete and payment is released to the influencer."
+        }
+    }
+}
